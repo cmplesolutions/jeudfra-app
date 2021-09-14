@@ -2,7 +2,7 @@
   <div>
     <h1 class="box__title">
       <nuxt-link :to="{ name: 'index' }">
-        <img src="@baserow/modules/core/static/img/JeudfraLogo.svg" alt="" />
+        <img src="@baserow/modules/core/static/img/logo.svg" alt="" />
       </nuxt-link>
     </h1>
     <AuthLogin :invitation="invitation" @success="success">

@@ -1,15 +1,15 @@
 <template>
   <div class="form-view__powered-by">
-    Powered by
+    Developed by
     <a
-      href="https://baserow.io"
+      href="https://cmple.solutions"
       target="_blank"
-      title="Baserow - open source no-code database tool and Airtable alternative"
+      title="Cmple Solutions - Software development made simple"
     >
       <img
         class="form-view__powered-by-logo"
-        src="@baserow/modules/core/static/img/logo.svg"
-        alt="Baserow - open source no-code database tool and Airtable alternative"
+        src="@baserow/modules/core/static/img/Cmple_Solutions_Logo_Azure.svg"
+        alt="Cmple Solutions - Software development made simple"
       />
     </a>
   </div>
