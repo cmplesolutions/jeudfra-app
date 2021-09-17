@@ -1,6 +1,6 @@
 export default {
-  title: 'Baserow',
-  titleTemplate: '%s // Baserow',
+  title: 'Jeudfra App',
+  titleTemplate: '%s // Jeudfra App',
   meta: [
     { charset: 'utf-8' },
     { name: 'viewport', content: 'width=device-width, initial-scale=1' },
